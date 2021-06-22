@@ -21,7 +21,8 @@ jobs:
         curl 'https://covid-sheets-mirror.web.app/api?sheet=1nUUU5zPRPlhAXM_-8R7lsMnAkK4jaebvIL5agAaKoXk&range=Vaccine!A:H' > vaccinations.csv
     - name: Convert CSV to JSON
       run: |-
-        node tidy-csv.js
+        npm ci;
+        node tidy-csv.js;
     - name: Commit and push if it changed
       run: |-
         git config user.name "Automated"
