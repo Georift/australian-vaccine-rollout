@@ -1,0 +1,26 @@
+{
+  "name": "australian-vaccine-rollout",
+  "version": "1.0.0",
+  "description": "At the moment the department of health [publishes](https://www.health.gov.au/initiatives-and-programs/covid-19-vaccines/australias-covid-19-vaccine-rollout#covid19-vaccine-rollout-daily-update) vaccination rollout data as a daily PDF which is a bit of a pain to work with.",
+  "main": "tidy-csv.js",
+  "type": "module",
+  "dependencies": {
+    "d3": "^7.0.0",
+    "date-fns": "^2.22.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Georift/australian-vaccine-rollout.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Georift/australian-vaccine-rollout/issues"
+  },
+  "homepage": "https://github.com/Georift/australian-vaccine-rollout#readme"
+}
