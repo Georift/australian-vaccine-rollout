@@ -1,4 +1,4 @@
-# Australia Vaccine Rollout Data
+# Australian Vaccine Rollout Data
 
 At the moment the department of health [publishes](https://www.health.gov.au/initiatives-and-programs/covid-19-vaccines/australias-covid-19-vaccine-rollout#covid19-vaccine-rollout-daily-update) vaccination rollout data as a daily PDF which is a bit of a pain to work with.
 
