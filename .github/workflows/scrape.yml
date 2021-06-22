@@ -12,9 +12,16 @@ jobs:
     steps:
     - name: Check out this repo
       uses: actions/checkout@v2
+    - name: Add node
+      uses: action/setup-node@v2.1.5
+      with:
+        node-version: 'v14'
     - name: Fetch latest data
       run: |-
         curl 'https://covid-sheets-mirror.web.app/api?sheet=1nUUU5zPRPlhAXM_-8R7lsMnAkK4jaebvIL5agAaKoXk&range=Vaccine!A:H' > vaccinations.csv
+    - name: Convert CSV to JSON
+      run: |-
+        node tidy-csv.js
     - name: Commit and push if it changed
       run: |-
         git config user.name "Automated"
