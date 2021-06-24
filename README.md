@@ -1,5 +1,7 @@
 # Australian Vaccine Rollout Data
 
+[<img src="https://user-images.githubusercontent.com/859430/123195181-4d504f80-d4da-11eb-80d5-01bdf92e8993.png" width=450/>](https://twitter.com/CaseyBriggs/status/1407580183662456833)
+
 At the moment the department of health [publishes](https://www.health.gov.au/initiatives-and-programs/covid-19-vaccines/australias-covid-19-vaccine-rollout#covid19-vaccine-rollout-daily-update) vaccination rollout data as a daily PDF which is a bit of a pain to work with.
 
 While looking for a better source I came across this amazing article by the Digital Story Innovation Team at the ABC "[Tracking Australia’s COVID vaccine rollout numbers](https://www.abc.net.au/news/2021-03-02/charting-australias-covid-vaccine-rollout/13197518)". It appears as though someone at the ABC is collating all of this data and doing a great job of it.
