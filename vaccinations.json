@@ -34,10 +34,10 @@
     "state": "NSW",
     "cumulativeDoses": 748701,
     "newDoses": 18918,
-    "cumulativeFirstDose": null,
-    "newFirstDose": null,
-    "cumulativeSecondDose": null,
-    "newSecondDose": null
+    "cumulativeFirstDose": 477910,
+    "newFirstDose": 10102,
+    "cumulativeSecondDose": 270791,
+    "newSecondDose": 8816
   },
   {
     "date": "2021-06-25T00:00:00.000Z",
