@@ -4,9 +4,9 @@
     "state": "AUS",
     "cumulativeDoses": 7806975,
     "newDoses": 161390,
-    "cumulativeFirstDose": null,
+    "cumulativeFirstDose": 6109102,
     "newFirstDose": null,
-    "cumulativeSecondDose": null,
+    "cumulativeSecondDose": 1633434,
     "newSecondDose": null
   },
   {
