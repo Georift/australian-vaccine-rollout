@@ -1,5 +1,115 @@
 [
   {
+    "date": "2021-07-03T00:00:00.000Z",
+    "state": "AUS",
+    "cumulativeDoses": 8121649,
+    "newDoses": 151496,
+    "cumulativeFirstDose": 6274108,
+    "newFirstDose": null,
+    "cumulativeSecondDose": 1807994,
+    "newSecondDose": null
+  },
+  {
+    "date": "2021-07-03T00:00:00.000Z",
+    "state": "Fed gov",
+    "cumulativeDoses": 443092,
+    "newDoses": 4298,
+    "cumulativeFirstDose": 235241,
+    "newFirstDose": 2669,
+    "cumulativeSecondDose": 207851,
+    "newSecondDose": 1629
+  },
+  {
+    "date": "2021-07-03T00:00:00.000Z",
+    "state": "Primary care settings",
+    "cumulativeDoses": 4215842,
+    "newDoses": 75332,
+    "cumulativeFirstDose": null,
+    "newFirstDose": null,
+    "cumulativeSecondDose": null,
+    "newSecondDose": null
+  },
+  {
+    "date": "2021-07-03T00:00:00.000Z",
+    "state": "NSW",
+    "cumulativeDoses": 893021,
+    "newDoses": 20332,
+    "cumulativeFirstDose": null,
+    "newFirstDose": null,
+    "cumulativeSecondDose": null,
+    "newSecondDose": null
+  },
+  {
+    "date": "2021-07-03T00:00:00.000Z",
+    "state": "VIC",
+    "cumulativeDoses": 1142475,
+    "newDoses": 21240,
+    "cumulativeFirstDose": 844017,
+    "newFirstDose": 6457,
+    "cumulativeSecondDose": 298457,
+    "newSecondDose": 13166
+  },
+  {
+    "date": "2021-07-03T00:00:00.000Z",
+    "state": "QLD",
+    "cumulativeDoses": 603208,
+    "newDoses": 14984,
+    "cumulativeFirstDose": null,
+    "newFirstDose": null,
+    "cumulativeSecondDose": null,
+    "newSecondDose": null
+  },
+  {
+    "date": "2021-07-03T00:00:00.000Z",
+    "state": "WA",
+    "cumulativeDoses": 311488,
+    "newDoses": 5787,
+    "cumulativeFirstDose": null,
+    "newFirstDose": null,
+    "cumulativeSecondDose": null,
+    "newSecondDose": null
+  },
+  {
+    "date": "2021-07-03T00:00:00.000Z",
+    "state": "TAS",
+    "cumulativeDoses": 116858,
+    "newDoses": 1874,
+    "cumulativeFirstDose": null,
+    "newFirstDose": null,
+    "cumulativeSecondDose": null,
+    "newSecondDose": null
+  },
+  {
+    "date": "2021-07-03T00:00:00.000Z",
+    "state": "SA",
+    "cumulativeDoses": 244121,
+    "newDoses": 5147,
+    "cumulativeFirstDose": null,
+    "newFirstDose": null,
+    "cumulativeSecondDose": null,
+    "newSecondDose": null
+  },
+  {
+    "date": "2021-07-03T00:00:00.000Z",
+    "state": "ACT",
+    "cumulativeDoses": 88346,
+    "newDoses": 1585,
+    "cumulativeFirstDose": null,
+    "newFirstDose": null,
+    "cumulativeSecondDose": null,
+    "newSecondDose": null
+  },
+  {
+    "date": "2021-07-03T00:00:00.000Z",
+    "state": "NT",
+    "cumulativeDoses": 63198,
+    "newDoses": 917,
+    "cumulativeFirstDose": null,
+    "newFirstDose": null,
+    "cumulativeSecondDose": null,
+    "newSecondDose": null
+  },
+  {
     "date": "2021-07-02T00:00:00.000Z",
     "state": "AUS",
     "cumulativeDoses": 7970153,
