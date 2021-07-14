@@ -1,5 +1,115 @@
 [
   {
+    "date": "2021-07-14T00:00:00.000Z",
+    "state": "AUS",
+    "cumulativeDoses": 9353698,
+    "newDoses": 49672,
+    "cumulativeFirstDose": 6868754,
+    "newFirstDose": null,
+    "cumulativeSecondDose": 2400432,
+    "newSecondDose": null
+  },
+  {
+    "date": "2021-07-14T00:00:00.000Z",
+    "state": "Fed gov",
+    "cumulativeDoses": null,
+    "newDoses": null,
+    "cumulativeFirstDose": null,
+    "newFirstDose": null,
+    "cumulativeSecondDose": null,
+    "newSecondDose": null
+  },
+  {
+    "date": "2021-07-14T00:00:00.000Z",
+    "state": "Primary care settings",
+    "cumulativeDoses": null,
+    "newDoses": null,
+    "cumulativeFirstDose": null,
+    "newFirstDose": null,
+    "cumulativeSecondDose": null,
+    "newSecondDose": null
+  },
+  {
+    "date": "2021-07-14T00:00:00.000Z",
+    "state": "NSW",
+    "cumulativeDoses": 1094431,
+    "newDoses": 20622,
+    "cumulativeFirstDose": 719685,
+    "newFirstDose": 14007,
+    "cumulativeSecondDose": 374746,
+    "newSecondDose": 6615
+  },
+  {
+    "date": "2021-07-14T00:00:00.000Z",
+    "state": "VIC",
+    "cumulativeDoses": 1313107,
+    "newDoses": 13545,
+    "cumulativeFirstDose": 907443,
+    "newFirstDose": 6692,
+    "cumulativeSecondDose": 405663,
+    "newSecondDose": 8297
+  },
+  {
+    "date": "2021-07-14T00:00:00.000Z",
+    "state": "QLD",
+    "cumulativeDoses": 725615,
+    "newDoses": 15505,
+    "cumulativeFirstDose": null,
+    "newFirstDose": null,
+    "cumulativeSecondDose": null,
+    "newSecondDose": null
+  },
+  {
+    "date": "2021-07-14T00:00:00.000Z",
+    "state": "WA",
+    "cumulativeDoses": null,
+    "newDoses": null,
+    "cumulativeFirstDose": null,
+    "newFirstDose": null,
+    "cumulativeSecondDose": null,
+    "newSecondDose": null
+  },
+  {
+    "date": "2021-07-14T00:00:00.000Z",
+    "state": "TAS",
+    "cumulativeDoses": null,
+    "newDoses": null,
+    "cumulativeFirstDose": null,
+    "newFirstDose": null,
+    "cumulativeSecondDose": null,
+    "newSecondDose": null
+  },
+  {
+    "date": "2021-07-14T00:00:00.000Z",
+    "state": "SA",
+    "cumulativeDoses": null,
+    "newDoses": null,
+    "cumulativeFirstDose": null,
+    "newFirstDose": null,
+    "cumulativeSecondDose": null,
+    "newSecondDose": null
+  },
+  {
+    "date": "2021-07-14T00:00:00.000Z",
+    "state": "ACT",
+    "cumulativeDoses": null,
+    "newDoses": null,
+    "cumulativeFirstDose": null,
+    "newFirstDose": null,
+    "cumulativeSecondDose": null,
+    "newSecondDose": null
+  },
+  {
+    "date": "2021-07-14T00:00:00.000Z",
+    "state": "NT",
+    "cumulativeDoses": null,
+    "newDoses": null,
+    "cumulativeFirstDose": null,
+    "newFirstDose": null,
+    "cumulativeSecondDose": null,
+    "newSecondDose": null
+  },
+  {
     "date": "2021-07-13T00:00:00.000Z",
     "state": "AUS",
     "cumulativeDoses": 9304026,
@@ -34,10 +144,10 @@
     "state": "NSW",
     "cumulativeDoses": 1073809,
     "newDoses": 20749,
-    "cumulativeFirstDose": null,
-    "newFirstDose": null,
-    "cumulativeSecondDose": null,
-    "newSecondDose": null
+    "cumulativeFirstDose": 705678,
+    "newFirstDose": 14189,
+    "cumulativeSecondDose": 368131,
+    "newSecondDose": 6560
   },
   {
     "date": "2021-07-13T00:00:00.000Z",
@@ -144,10 +254,10 @@
     "state": "NSW",
     "cumulativeDoses": 1053060,
     "newDoses": 11467,
-    "cumulativeFirstDose": null,
-    "newFirstDose": null,
-    "cumulativeSecondDose": null,
-    "newSecondDose": null
+    "cumulativeFirstDose": 691489,
+    "newFirstDose": 9892,
+    "cumulativeSecondDose": 361571,
+    "newSecondDose": 1575
   },
   {
     "date": "2021-07-12T00:00:00.000Z",
@@ -254,10 +364,10 @@
     "state": "NSW",
     "cumulativeDoses": 1041593,
     "newDoses": 15310,
-    "cumulativeFirstDose": null,
-    "newFirstDose": null,
-    "cumulativeSecondDose": null,
-    "newSecondDose": null
+    "cumulativeFirstDose": 681597,
+    "newFirstDose": 11370,
+    "cumulativeSecondDose": 359996,
+    "newSecondDose": 3940
   },
   {
     "date": "2021-07-11T00:00:00.000Z",
